@@ -1,2 +1,4 @@
 # javademo
-this is a project created to demonstrate creation of repository
+#author@lakshmi
+#data:12-09-24
+#location:Rajampet
